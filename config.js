@@ -158,7 +158,7 @@ const config = {
       "Use your best email so we can reach you fast.",
       "Want a shorter commute? I can help you find a home closer to your office. Answer the quick questions and I will send you smart options that fit your budget and your route."
     ],
-    "finePrintText": "One entry per person. Must be 18+ and an Ontario resident. No purchase necessary. Contest ends October 13, 2025.",
+    "finePrintText": "One entry per person. Must be 18+ and an Ontario resident. No purchase necessary. Contest ends November 13, 2025.",
     "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759953725524_0",
+      "id": "q_auto_1759953763093_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759953725524_1",
+      "id": "q_auto_1759953763093_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759953725524_2",
+      "id": "q_auto_1759953763093_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
