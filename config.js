@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759953699463_0",
+      "id": "q_auto_1759953725524_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759953699463_1",
+      "id": "q_auto_1759953725524_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759953699463_2",
+      "id": "q_auto_1759953725524_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -266,10 +266,10 @@ const config = {
     "agentContact": {
       "name": "Amirhossein Moradian",
       "title": "Real Estate Advisor",
-      "phone": "647-550-6815",
+      "phone": "(647) 550-6815",
       "email": "Amir@northgroup.com"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Amirhossein Moradian. It is not sponsored by or affiliated with Metrolinx/Presto, Uber, or any coffee brand. Contest ends October 13, 2025. Winner will be selected at random from eligible entries. Must be 18+ and an Ontario resident. One entry per person. No purchase necessary.",
+    "footerDisclaimer": "This giveaway is sponsored by Amirhossein Moradian. It is not sponsored by or affiliated with Metrolinx/Presto, Uber, or any coffee brand. Contest ends November13, 2025. Winner will be selected at random from eligible entries. Must be 18+ and an Ontario resident. One entry per person. No purchase necessary.",
     "organizerLogoUrl": "https://i.ibb.co/23BG02pX/QR-codes-3.png",
     "secondaryLogoUrl": "https://res.cloudinary.com/micronetonline/image/upload/c_crop,h_1071,w_2500,x_0,y_0/f_auto/q_auto:best/v1748962948/tenants/21e1fd0f-3475-48ed-9fb6-d4cd7b019695/727d8e7ad4bb465b833aae28c660c731/Real-Logo-Knockout-Black-with-White-Wordmark-3.jpg",
     "secondaryLogoAlt": "Brokerage Logo",
@@ -277,7 +277,7 @@ const config = {
     "brokerageName": "Real Broker LTD",
     "address": "130 KING ST W UNIT 1900B TORONTO, Ontario M5X1E3",
     "email": "Amir@northgroup.com",
-    "phone": "647 550-6815",
+    "phone": "(647) 550-6815",
     "copyrightOwner": "Amirhossein Moradian"
   },
   "deploymentInfo": {
