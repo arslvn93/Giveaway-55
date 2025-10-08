@@ -27,8 +27,8 @@ const config = {
     "theme": "dark",
     "primaryColorOverride": "",
     "secondaryColorOverride": "",
-    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "facebookPixelId": "1057475448873422",
+    "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/jAIgKU6MgnYVZbV82y2R/webhook-trigger/7FHF4G5JHEcqQzPZc612",
+    "facebookPixelId": "1327854894934243",
     "salesGeniusAppApi": "",
     "followUpBossEmail": "",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759953301045_0",
+      "id": "q_auto_1759953699463_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759953301045_1",
+      "id": "q_auto_1759953699463_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759953301045_2",
+      "id": "q_auto_1759953699463_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -255,7 +255,7 @@ const config = {
     },
     "pageTitle": "Thank You for Your Entry!",
     "headerText": "You're In!",
-    "mainMessage": "Your entry for the Office Comeback Giveaway is in. We will draw on October 14, 2025 and call the winner from 647-550-6815. Good luck!",
+    "mainMessage": "Your entry for the Office Comeback Giveaway is in. We will draw on November 14, 2025 and call the winner from 647-550-6815. Good luck!",
     "socialPromptText": "Follow for updates and the winner callout: instagram.com/itsmoradian"
   },
   "footerContact": {
