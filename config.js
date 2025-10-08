@@ -2,19 +2,19 @@ const config = {
   "meta": {
     "pageTitle": "Win $350 Office Comeback Kit – Commute Made Easy",
     "navBrandLogoText": "Amirhossein Moradian",
-    "privacyPolicyLink": ""
+    "privacyPolicyLink": "https://onereal.ca/pages/privacy-policy"
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>$350 Office Comeback Kit</span> for Your Commute!",
     "heroSubheadline": "Get a $200 Presto card, $100 for coffee, and $50 Uber. Make your return to the office smooth and stress-free. One lucky winner takes all.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/atnwq6ed6drme0csqcj8w9gk4c.jpg",
-    "promotionDates": "Enter by October 13, 2025. We will call the winner on October 14, 2025.",
-    "endDate": "2025-10-14T03:59:00.000Z",
+    "promotionDates": "Enter by November 13, 2025. We will call the winner on November 14, 2025.",
+    "endDate": "2025-11-14T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter to Win Now!",
     "name": "Office Comeback Giveaway",
     "successModalHeaderText": "You're In!",
-    "successModalMainMessage": "Your entry for the <strong>Office Comeback Giveaway</strong> is in! We will draw on October 14, 2025 and call the winner from <strong>647-550-6815</strong>.",
+    "successModalMainMessage": "Your entry for the <strong>Office Comeback Giveaway</strong> is in! We will draw on November 14, 2025 and call the winner from <strong>647-550-6815</strong>.",
     "successModalEmailPrompt": "Add 647-550-6815 to your contacts so you don't miss the call. We'll email if we can't reach you."
   },
   "settings": {
@@ -28,16 +28,10 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You're In!",
-    "mainMessage": "Your entry for the Office Comeback Giveaway is in. We will draw on October 14, 2025 and call the winner from 647-550-6815. Good luck!",
-    "socialPromptText": "Follow for updates and the winner callout: instagram.com/itsmoradian"
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -83,7 +77,7 @@ const config = {
     "name": "Return-to-Office Starter Kit",
     "value": "$350 Value",
     "description": "Picture this: your train fare is covered, your morning coffee is on us, and you have an Uber ride ready when you need it. Feel calm on day one back at the office. No stress. No rush. Just an easy commute and a great start to your day.",
-    "limitedTimeOfferText": "Limited-time giveaway. Ends October 13, 2025.",
+    "limitedTimeOfferText": "Limited-time giveaway. Ends November 13, 2025.",
     "ctaButtonText": "I Want This Kit!"
   },
   "howToEnter": {
@@ -101,7 +95,7 @@ const config = {
       {
         "icon": "fas fa-phone",
         "title": "Wait for the Call",
-        "description": "We will call the winner on October 14, 2025."
+        "description": "We will call the winner on November 14, 2025."
       }
     ],
     "highlights": [
@@ -132,8 +126,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "One entry per person. Must be 18+ and an Ontario resident. No purchase necessary. Contest ends October 13, 2025.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -141,7 +133,7 @@ const config = {
       },
       {
         "q": "How will I know if I win?",
-        "a": "We will call you on October 14, 2025. We may also email you if we cannot reach you by phone."
+        "a": "We will call you on November 14, 2025. We may also email you if we cannot reach you by phone."
       },
       {
         "q": "Do I need to buy anything?",
@@ -149,7 +141,7 @@ const config = {
       },
       {
         "q": "When does it end?",
-        "a": "Entries close October 13, 2025 at 11:59 PM."
+        "a": "Entries close November 13, 2025 at 11:59 PM."
       },
       {
         "q": "What is in the prize?",
@@ -166,13 +158,15 @@ const config = {
       "Use your best email so we can reach you fast.",
       "Want a shorter commute? I can help you find a home closer to your office. Answer the quick questions and I will send you smart options that fit your budget and your route."
     ],
+    "finePrintText": "One entry per person. Must be 18+ and an Ontario resident. No purchase necessary. Contest ends October 13, 2025.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "We draw at random from all valid entries. One entry per person. Must be 18+ and live in Ontario."
     },
     "importantNotice": {
       "title": "Winner Will Be Called",
-      "text": "We will call the winner on October 14, 2025 from 647-550-6815. Add this number to your contacts so you do not miss the call."
+      "text": "We will call the winner on November 14, 2025 from 647-550-6815. Add this number to your contacts so you do not miss the call."
     }
   },
   "entryForm": {
@@ -186,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757969005264_0",
+      "id": "q_auto_1759953301045_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -208,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_1",
+      "id": "q_auto_1759953301045_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -230,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_2",
+      "id": "q_auto_1759953301045_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -252,6 +246,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You're In!",
+    "mainMessage": "Your entry for the Office Comeback Giveaway is in. We will draw on October 14, 2025 and call the winner from 647-550-6815. Good luck!",
+    "socialPromptText": "Follow for updates and the winner callout: instagram.com/itsmoradian"
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/profile.php?id=100066739015848",
@@ -264,14 +270,14 @@ const config = {
       "email": "Amir@northgroup.com"
     },
     "footerDisclaimer": "This giveaway is sponsored by Amirhossein Moradian. It is not sponsored by or affiliated with Metrolinx/Presto, Uber, or any coffee brand. Contest ends October 13, 2025. Winner will be selected at random from eligible entries. Must be 18+ and an Ontario resident. One entry per person. No purchase necessary.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
+    "organizerLogoUrl": "https://i.ibb.co/23BG02pX/QR-codes-3.png",
+    "secondaryLogoUrl": "https://res.cloudinary.com/micronetonline/image/upload/c_crop,h_1071,w_2500,x_0,y_0/f_auto/q_auto:best/v1748962948/tenants/21e1fd0f-3475-48ed-9fb6-d4cd7b019695/727d8e7ad4bb465b833aae28c660c731/Real-Logo-Knockout-Black-with-White-Wordmark-3.jpg",
     "secondaryLogoAlt": "Brokerage Logo",
     "organizerName": "Amirhossein Moradian",
-    "brokerageName": "",
-    "address": "",
+    "brokerageName": "Real Broker LTD",
+    "address": "130 KING ST W UNIT 1900B TORONTO, Ontario M5X1E3",
     "email": "Amir@northgroup.com",
-    "phone": "647-550-6815",
+    "phone": "647 550-6815",
     "copyrightOwner": "Amirhossein Moradian"
   },
   "deploymentInfo": {
