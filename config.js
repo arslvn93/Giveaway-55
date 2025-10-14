@@ -1,15 +1,15 @@
 const config = {
   "meta": {
     "pageTitle": "Office Comeback Giveaway",
-    "navBrandLogoText": "Amirhossein Moradian",
+    "navBrandLogoText": "Amir Moradian",
     "privacyPolicyLink": "https://onereal.ca/pages/privacy-policy"
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>$350 Office Comeback Kit</span> for Your Commute!",
     "heroSubheadline": "Get a $200 Presto card, $100 for coffee, and $50 Uber. Make your return to the office smooth and stress-free. One lucky winner takes all.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/atnwq6ed6drme0csqcj8w9gk4c.jpg",
-    "promotionDates": "Enter by November 13, 2025. We will call the winner on November 14, 2025.",
-    "endDate": "2025-11-14T04:59:00.000Z",
+    "promotionDates": "Enter by November 10, 2025. We will call the winner on November 11, 2025.",
+    "endDate": "2025-11-10T04:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
     "entryFormCtaText": "Enter to Win Now!",
     "name": "Office Comeback Giveaway",
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759953802279_0",
+      "id": "q_auto_1760457394182_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759953802279_1",
+      "id": "q_auto_1760457394183_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759953802279_2",
+      "id": "q_auto_1760457394183_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
