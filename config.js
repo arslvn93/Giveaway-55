@@ -36,7 +36,7 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/682pxd9cqdrmc0csqcjr1sd6gw.jpg",
+        "src": "https://iili.io/KeWL7kP.webp",
         "alt": "Presto card beside a laptop and transit map"
       },
       {
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760458081814_0",
+      "id": "q_auto_1760458393119_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760458081814_1",
+      "id": "q_auto_1760458393119_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760458081814_2",
+      "id": "q_auto_1760458393119_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
