@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760458393119_0",
+      "id": "q_auto_1760461950806_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760458393119_1",
+      "id": "q_auto_1760461950806_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760458393119_2",
+      "id": "q_auto_1760461950806_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -264,7 +264,7 @@ const config = {
       "instagram": "https://instagram.com/itsmoradian"
     },
     "agentContact": {
-      "name": "Amirhossein Moradian",
+      "name": "Amir Moradian",
       "title": "Real Estate Advisor",
       "phone": "(647) 550-6815",
       "email": "Amir@northgroup.com"
@@ -273,12 +273,12 @@ const config = {
     "organizerLogoUrl": "https://i.ibb.co/23BG02pX/QR-codes-3.png",
     "secondaryLogoUrl": "https://res.cloudinary.com/micronetonline/image/upload/c_crop,h_1071,w_2500,x_0,y_0/f_auto/q_auto:best/v1748962948/tenants/21e1fd0f-3475-48ed-9fb6-d4cd7b019695/727d8e7ad4bb465b833aae28c660c731/Real-Logo-Knockout-Black-with-White-Wordmark-3.jpg",
     "secondaryLogoAlt": "Brokerage Logo",
-    "organizerName": "Amirhossein Moradian",
+    "organizerName": "Amir Moradian",
     "brokerageName": "Real Broker LTD",
     "address": "130 KING ST W UNIT 1900B TORONTO, Ontario M5X1E3",
     "email": "Amir@northgroup.com",
     "phone": "(647) 550-6815",
-    "copyrightOwner": "Amirhossein Moradian"
+    "copyrightOwner": "Amir Moradian"
   },
   "deploymentInfo": {
     "repoName": "Giveaway-55",
