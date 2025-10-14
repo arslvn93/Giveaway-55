@@ -77,7 +77,7 @@ const config = {
     "name": "Return-to-Office Starter Kit",
     "value": "$350 Value",
     "description": "Picture this: your train fare is covered, your morning coffee is on us, and you have an Uber ride ready when you need it. Feel calm on day one back at the office. No stress. No rush. Just an easy commute and a great start to your day.",
-    "limitedTimeOfferText": "Limited-time giveaway. Ends November 13, 2025.",
+    "limitedTimeOfferText": "Limited-time giveaway. Ends November 10, 2025.",
     "ctaButtonText": "I Want This Kit!"
   },
   "howToEnter": {
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760457394182_0",
+      "id": "q_auto_1760457417411_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760457394183_1",
+      "id": "q_auto_1760457417411_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760457394183_2",
+      "id": "q_auto_1760457417411_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
