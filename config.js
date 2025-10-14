@@ -14,7 +14,7 @@ const config = {
     "entryFormCtaText": "Enter to Win Now!",
     "name": "Office Comeback Giveaway",
     "successModalHeaderText": "You're In!",
-    "successModalMainMessage": "Your entry for the <strong>Office Comeback Giveaway</strong> is in! We will draw on November 14, 2025 and call the winner from <strong>647-550-6815</strong>.",
+    "successModalMainMessage": "Your entry for the <strong>Office Comeback Giveaway</strong> is in! We will draw on November 11, 2025 and call the winner from <strong>647-550-6815</strong>.",
     "successModalEmailPrompt": "Add 647-550-6815 to your contacts so you don't miss the call. We'll email if we can't reach you."
   },
   "settings": {
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760457655370_0",
+      "id": "q_auto_1760457697419_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760457655370_1",
+      "id": "q_auto_1760457697419_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760457655370_2",
+      "id": "q_auto_1760457697419_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
