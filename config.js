@@ -83,6 +83,11 @@ const config = {
   "howToEnter": {
     "steps": [
       {
+        "icon": "fa-brands fa-square-instagram",
+        "title": "Follow My Instagram",
+        "description": "follow @itsmoradian"
+      },
+      {
         "icon": "fas fa-edit",
         "title": "Fill Out the Form",
         "description": "Enter your name and best email. It takes 30 seconds."
@@ -90,12 +95,7 @@ const config = {
       {
         "icon": "fas fa-list-ul",
         "title": "Answer Quick Questions",
-        "description": "Tell us about your commute and move plans."
-      },
-      {
-        "icon": "fas fa-phone",
-        "title": "Wait for the Call",
-        "description": "We will call the winner on November 14, 2025."
+        "description": "Tell us about you."
       }
     ],
     "highlights": [
@@ -133,7 +133,7 @@ const config = {
       },
       {
         "q": "How will I know if I win?",
-        "a": "We will call you on November 14, 2025. We may also email you if we cannot reach you by phone."
+        "a": "We will call you on November 11, 2025. We may also email you if we cannot reach you by phone."
       },
       {
         "q": "Do I need to buy anything?",
@@ -141,7 +141,7 @@ const config = {
       },
       {
         "q": "When does it end?",
-        "a": "Entries close November 13, 2025 at 11:59 PM."
+        "a": "Entries close November 10, 2025 at 11:59 PM."
       },
       {
         "q": "What is in the prize?",
@@ -158,7 +158,7 @@ const config = {
       "Use your best email so we can reach you fast.",
       "Want a shorter commute? I can help you find a home closer to your office. Answer the quick questions and I will send you smart options that fit your budget and your route."
     ],
-    "finePrintText": "One entry per person. Must be 18+ and an Ontario resident. No purchase necessary. Contest ends November 13, 2025.",
+    "finePrintText": "One entry per person. Must be 18+ and an Ontario resident. No purchase necessary. Contest ends November 10, 2025.",
     "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
@@ -166,7 +166,7 @@ const config = {
     },
     "importantNotice": {
       "title": "Winner Will Be Called",
-      "text": "We will call the winner on November 14, 2025 from 647-550-6815. Add this number to your contacts so you do not miss the call."
+      "text": "We will call the winner on November 11, 2025 from 647-550-6815. Add this number to your contacts so you do not miss the call."
     }
   },
   "entryForm": {
@@ -180,7 +180,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760457417411_0",
+      "id": "q_auto_1760457653968_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -202,7 +202,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760457417411_1",
+      "id": "q_auto_1760457653968_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -224,7 +224,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760457417411_2",
+      "id": "q_auto_1760457653968_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
